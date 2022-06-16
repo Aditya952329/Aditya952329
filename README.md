@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya952329
+- 👋 Hi, I’m @Aditya
 - 👀 I’m interested in Finding Bugs And Glitches
 - 🌱 I’m currently learning Sqli,Https Proxy Servers and more
 - 💞️ I’m looking to collaborate with Indian Co-Brands
