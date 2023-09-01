@@ -2,7 +2,7 @@
 - 👀 I’m interested in Finding Bugs And Glitches
 - 🌱 I’m currently learning Sqli,Https Proxy Servers and more
 - 💞️ I’m looking to collaborate with Indian Co-Brands
-- 📫 Reach me by @Cracker_Aditya on Telegram
+- 📫 Reach me by @@DataDigger on Telegram
 
 <!---
 Aditya952329/Aditya952329 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
