@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aditya Raj 👋
 
-<!--
-**Aditya952329/Aditya952329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech CSE Student  
+🔐 Aspiring Cybersecurity Analyst / Pentester  
+💻 Building practical security tools in Python  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Cybersecurity Projects
+
+- **Email Authenticity Checker**  
+  SPF, DMARC, DKIM & Domain intelligence verification tool
+
+- **ASAT-NATI**  
+ ASAT-NATI is an advanced security assessment toolkit meticulously crafted to streamline the evaluation of web application security while also scrutinizing potential vulnerabilities within Netflix account authentication systems. Developed with a focus on automation, reliability, and comprehensive security testing, ASAT-NATI empowers users with a robust set of features for enhancing cybersecurity resilience across diverse online platforms.
+
+---
+
+## 🛠 Skills
+
+- Python
+- Git & GitHub
+- DNS & Email Protocols
+- Network Fundamentals
+
+---
+
+## 🎯 Career Goal
+
+To work in a Security Operations Center (SOC) or as a Pentester,
+building real-world defensive and offensive security solutions.
